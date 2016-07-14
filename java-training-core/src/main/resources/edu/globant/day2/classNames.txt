@@ -1,0 +1,3 @@
+edu.globant.day1.Person
+edu.globant.day1.Car
+ThisIsNotAClassAndShouldDestroyEverythingMuahaha
